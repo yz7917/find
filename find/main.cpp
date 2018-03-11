@@ -22,6 +22,7 @@ int main ()
             cout << t[k]<<endl;
             k++;
         } ///aaaaaaa
+        ////aasdfias;ldkjfajsd;lfkja;lsdkjf;lakjsdf;la
     }
     cout << k << endl;
 }
