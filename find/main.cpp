@@ -21,7 +21,7 @@ int main ()
             t[k] = a[i];
             cout << t[k]<<endl;
             k++;
-        }
+        } ///aaaaaaa
     }
     cout << k << endl;
 }
